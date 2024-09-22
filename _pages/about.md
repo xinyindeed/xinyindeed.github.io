@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>xinyi.wang@asc.upenn.edu</p>
-    [Google Scholar](https://scholar.google.com/citations?user=069Kq20AAAAJ&hl=en/) 
+    <p><a href="https://scholar.google.com/citations?user=069Kq20AAAAJ&hl=en" target="_blank">Google Scholar</a>.</p>
 
 
 news: true # includes a list of news items
@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a PhD candidate at [Annenberg School for Communication](https://www.asc.upenn.edu/people/graduate-student/xinyi-wang/) at University of Pennsylvania. My research interests are at the intersection of health, brain, and behavior. I am interested in (1) understanding ways to enhance curiosity towards accurate health information, particularly for vulnerable populations who are most at risk for misperceptions and (2) leveraging intensive-longitudinal and neuroscientific methodologies to understand broader health behavior and well-being.
+Hi! I'm a Ph.D. candidate at the [Annenberg School for Communication](https://www.asc.upenn.edu/people/graduate-student/xinyi-wang/) at the University of Pennsylvania. My research interests are at the intersection of health, brain, and behavior. My research focuses on (1) curiosity and ways to enhance curiosity towards accurate health information, particularly for vulnerable populations who are most at risk for misperceptions and (2) the dynamic interplay between internal processes (e.g., within-person fluctuations of emotions and cognitions) and external influences (e.g., social influence, social relationships) in health behavior. I leverage intensive-longitudinal, neuroscientific, and computational methodologies to understand these questions.
 
 
