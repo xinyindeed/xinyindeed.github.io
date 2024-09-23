@@ -41,7 +41,7 @@
       "endDate": "2024",
       "score": "10",
       "courses": ["Statistics and Data Science"]
-    }
+    },
     {
       "institution": "School of Journalism and Mass Communication",
       "location": "University of Wisconsin-Madison",
@@ -180,7 +180,7 @@
       "conference": "Social & Affective Neuroscience Society",
       "releaseDate": "2019",
       "authors": "2.	Wang, X., Cascio, C.N., O'Donnell, M.B., Falk, E.B."
-    },
+     }
   ],
  
   "references": [
