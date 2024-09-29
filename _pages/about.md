@@ -24,7 +24,7 @@ Hi! I'm a Ph.D. candidate at the [Annenberg School for Communication](https://ww
 
 
 
-M.A. Statistics and Data Science (2024) The Wharton School, University of Pennsylvania
-M.A. Journalism and Mass Communication (2020) University of Wisconsin-Madison
-B.A. Journalism and Mass Communication (2018) University of Wisconsin-Madison
+<p class="special-paragraph"> M.A. Statistics and Data Science (2024) The Wharton School, University of Pennsylvania
+                              M.A. Journalism and Mass Communication (2020) University of Wisconsin-Madison
+                              B.A. Journalism and Mass Communication (2018) University of Wisconsin-Madison.</p>
 
