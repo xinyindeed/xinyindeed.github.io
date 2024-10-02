@@ -1,219 +1,239 @@
 {
-  "basics": {
+  "personal_info": {
     "name": "Xinyi Wang",
-    "image": "",
     "email": "xinyi.wang@asc.upenn.edu",
-    "phone": "(608)-422-3715",
-    "profiles": [
-      {
-        "network": "X/Twitter",
-        "username": "indeed_xinyi",
-        "url": "https://x.com/indeed_xinyi"
-      }
-    ]
-  },
-   "interests": [
-    {
-      "keywords": [
-        "health behavior", "information seeking", "communication neuroscience", "cognitive processing", "persuasion"
-      ]
+    "phone": "608-422-3715",
+    "address": "3620 Walnut Street, Philadelphia, PA, 19103",
+    "profiles": {
+      "google_scholar": "https://scholar.google.com/citations?user=069Kq20AAAAJ&hl=en",
+      "osf": "http://osf.io/w5re2"
     }
+  },
+  "research_interests": [
+    "health behavior",
+    "information seeking",
+    "communication neuroscience",
+    "cognitive processing",
+    "persuasion"
   ],
   "education": [
     {
-      "institution": "Annenberg School for Communication",
-      "location": "University of Pennsylvania",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD Candidate",
-      "startDate": "2020",
-      "endDate": "2025",
-      "score": "10",
-      "courses": ["Communication"]
+      "degree": "Ph.D. Communication",
+      "school": "University of Pennsylvania, Annenberg School for Communication",
+      "expected_graduation": "May 2025",
+      "committee": [
+        "Dr. David Lydon-Staley (advisor)",
+        "Dr. Emily Falk",
+        "Dr. Andy Tan"
+      ],
+      "dissertation": "Investigating environmental and biological factors that shape our curiosity for new information"
     },
     {
-      "institution": "THe Wharton School",
-      "location": "University of Pennsylvania",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "MA",
-      "startDate": "2020",
-      "endDate": "2024",
-      "score": "10",
-      "courses": ["Statistics and Data Science"]
+      "degree": "M.A. Statistics and Data Science",
+      "school": "The Wharton School",
+      "expected_graduation": "December 2024"
     },
     {
-      "institution": "School of Journalism and Mass Communication",
-      "location": "University of Wisconsin-Madison",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "BA & MA",
-      "startDate": "2014",
-      "endDate": "2020",
-      "score": "10",
-      "courses": ["Journalism and Mass Communication"]
+      "degree": "M.A. Communication",
+      "school": "University of Pennsylvania, Annenberg School for Communication",
+      "graduation": "May 2022"
+    },
+    {
+      "degree": "M.A. Journalism and Mass Communication",
+      "school": "University of Wisconsin – Madison",
+      "graduation": "May 2020",
+      "thesis": "Beneficial or Harmful: Does Peer Marijuana Expectancy Influence Norm Perception and Use Intent",
+      "committee": [
+        "Dr. Dhavan. V. Shah (advisor)",
+        "Dr. Chris. N. Cascio"
+      ]
+    },
+    {
+      "degree": "B.A. Journalism and Mass Communication",
+      "school": "University of Wisconsin – Madison",
+      "graduation": "May 2018"
     }
   ],
-  "awards": [
+  "research_experience": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Graduate Research Assistant",
+      "lab": "Addiction, Health, & Adolescent (AHA!) Lab",
+      "school": "University of Pennsylvania",
+      "dates": "September 2020 - Present",
+      "pi": "Dr. David Lydon-Staley"
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "lab": "Communication, Brain and Behavior (CBB) Lab",
+      "school": "University of Wisconsin-Madison",
+      "dates": "September 2018 – May 2020",
+      "pi": "Dr. Chris N. Cascio"
+    },
+    {
+      "title": "Graduate Research Assistant",
+      "group": "Health Information Technology Studies (HITS) Group",
+      "school": "University of Wisconsin-Madison",
+      "dates": "January 2017 – May 2020",
+      "pi": "Dr. Dhavan. V. Shah"
+    },
+    {
+      "title": "Undergraduate Research Assistant",
+      "lab": "Center for Communication Research",
+      "school": "University of Wisconsin-Madison",
+      "dates": "January 2017 – May 2018",
+      "pi": "Dr. Catalina Toma"
     }
   ],
-  "publications": [
+  "awards_and_fellowships": [
     {
-      "name": "A Socioemotional Network Perspective on Momentary Experiences of Family Conflict in Young Adults",
-      "publisher": "Family Process",
-      "releaseDate": "2024",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/famp.12995",
-      "authors": "Wang, X., McGowan, A.L., Fosco, G.M., Falk, E.B., Bassett, D.S., & Lydon-Staley, D.M."
+      "name": "Dissertation Research Fund",
+      "amount": "$1200",
+      "institution": "University of Pennsylvania",
+      "year": 2024
     },
     {
-      "name": "Smokers’curiosity for tobacco-related trivia aids recall of tobacco-related information",
-      "publisher": "Health Communication",
-      "releaseDate": "2023",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2149098",
-      "authors": "Clark, J., Vincent, A., Wang, X., McGowan, A.L., & Lydon-Staley, D.M. "
+      "name": "CETLI Teaching Certificate",
+      "institution": "University of Pennsylvania",
+      "year": 2024
     },
     {
-      "name": "Emotional Appeals and Norms: How Normative Perceptions Moderate the Persuasive Impacts of Discrete Emotional Appeals within Tobacco Pictorial Warnings in China",
-      "publisher": "Health Communication",
-      "releaseDate": "2023",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/10410236.2023.2277036",
-      "authors": "Tao, R., Wang, X., Wang, Y., Yao, H., Wu, S., Liu, J., Yang, S. "
+      "name": "GAPSA Student Service Award",
+      "amount": "$3400",
+      "institution": "University of Pennsylvania",
+      "years": [2023, 2024]
     },
     {
-      "name": "Gendered citation practices in the field of communication",
-      "publisher": "Annals of the International Communication Association",
-      "releaseDate": "2021",
-      "url": "https://www.tandfonline.com/doi/full/10.1080/10410236.2023.2277036",
-      "authors": "Wang, X., Dworkin, J.D., Zhou, D., Stiso, J., Falk, E.B., Bassett, D.S., Zurn, P., & Lydon-Staley, D.M. "
+      "name": "Top Paper Award",
+      "institution": "International Communication Association CommSciBio Group",
+      "year": 2020
+    },
+    {
+      "name": "Technology Grant",
+      "amount": "$500",
+      "institution": "University of Pennsylvania",
+      "year": 2020
+    },
+    {
+      "name": "Student Research Grant Competition",
+      "amount": "$1000",
+      "institution": "University of Wisconsin-Madison",
+      "year": 2019
+    },
+    {
+      "name": "Graduate Student Research Grant",
+      "amount": "$1200",
+      "institution": "University of Wisconsin-Madison",
+      "year": 2019
+    },
+    {
+      "name": "Dean’s List",
+      "institution": "University of Wisconsin-Madison",
+      "years": ["2015-2018"]
     }
   ],
-  "book chapter": [
+  "publications": {
+    "peer_reviewed_journal_articles": [
+      {
+        "title": "A Socioemotional Network Perspective on Momentary Experiences of Family Conflict in Young Adults",
+        "authors": "Wang, X., McGowan, A.L., Fosco, G.M., Falk, E.B., Bassett, D.S., & Lydon-Staley, D.M.",
+        "journal": "Family Process",
+        "status": "Advanced online publication",
+        "link": "https://doi.org/10.1111/famp.12995",
+        "year": 2024
+      },
+      {
+        "title": "Smokers’ curiosity for tobacco-related trivia aids recall of tobacco-related information",
+        "authors": "Clark, J., Vincent, A., Wang, X., McGowan, A.L., & Lydon-Staley, D.M.",
+        "journal": "Health Communication",
+        "volume": 38,
+        "issue": 14,
+        "pages": "3357-3365",
+        "link": "https://doi.org/10.1080/10410236.2022.2149098",
+        "year": 2023
+      },
+      {
+        "title": "Emotional Appeals and Norms: How Normative Perceptions Moderate the Persuasive Impacts of Discrete Emotional Appeals within Tobacco Pictorial Warnings in China",
+        "authors": "Tao, R., Wang, X., Wang, Y., Yao, H., Wu, S., Liu, J., Yang, S.",
+        "journal": "Health Communication",
+        "pages": "1-16",
+        "link": "https://doi.org/10.1080/10410236.2023.2277036",
+        "year": 2023
+      }
+    ],
+    "book_chapters": [
+      {
+        "title": "Neuroimaging",
+        "authors": "Wang, X., Scholz, C., Falk, E. B., & Lydon-Staley, D. M.",
+        "book": "The International Encyclopedia of Health Communication",
+        "series": "The Wiley Blackwell-ICA International Encyclopedias of Communication",
+        "link": "https://doi.org/10.1002/9781119678816.iehc0600",
+        "year": 2023
+      }
+    ],
+    "preprints": [
+      {
+        "title": "Using Social Signals Communicating Information Value to Change Curiosity",
+        "authors": "Wang, X., Falk, E.B., Lydon-Staley, D.M.",
+        "link": "https://osf.io/preprints/psyarxiv/268pd"
+      }
+    ]
+  },
+  "conference_presentations": [
     {
-      "name": "Neuroimaging",
-      "publisher": "In E. Y. Ho, C. L. Bylund, & J. C. M. van Weert (Eds.), The International Encyclopedia of Health Communication (Vol. 4). (The Wiley Blackwell-ICA International Encyclopedias of Communication series). ",
-      "releaseDate": "2023",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781119678816.iehc0600",
-      "authors": "Wang, X., Scholz, C., Falk, E. B., & Lydon-Staley, D. M."
+      "title": "Performative Capitalism in Silicon Valley: Examining Performative and Substantive Political Behaviors of U.S. Technology Companies",
+      "authors": "Anh, C., Wang, X., González-Bailón, S.",
+      "event": "9th International Conference on Computational Social Science",
+      "year": 2023,
+      "note": "Plenary Talk"
     }
   ],
-  "preprint/manuscripts in prep": [
+  "workshops_attended": [
     {
-      "name": "Using Social Signals Communicating Information Value to Change Curiosity",
-      "releaseDate": "2024",
-      "url": "https://osf.io/preprints/psyarxiv/268pd",
-      "authors": "Wang, X., Falk, E.B., Lydon-Staley, D.M."
-    },
-    {
-      "name": "Targeting three United States priority populations with educational nicotine messages using curiosity-eliciting strategies",
-      "releaseDate": "2024",
-      "url": "https://osf.io/preprints/psyarxiv/6tz7h",
-      "authors": "Wang, X., Muzekari, B., Mercincavage, M., Tan, A.S., Lydon-Staley, D.M."
-    },
-     {
-      "name": "Performative Capitalism in Silicon Valley: Examining Performative and Substantive Political Behaviors of U.S. Technology Companies",
-      "releaseDate": "In Prep",
-      "authors": "Anh, C*., Wang, X*., González-Bailón, S. * indicates co-first authorship"
-    },
-     {
-      "name": "Sips and Synapses: Shared Neural Processing of Emotional Movie Clips Associated with Acute Alcohol Consumption.",
-      "releaseDate": "In Prep",
-      "authors": "Wang, X., Cornblath, E., McGowan, A.L., Vincent, A., Tapera, T., Zupan, B., Falk, E.B., Bassett, D.S., Satterthwaite, T.D., Wilson, S.J., & Lydon-Staley, D.M. "
+      "title": "Intensive Longitudinal Methods Workshop",
+      "institution": "Cornell University",
+      "year": 2022
     }
   ],
-  "conferences": [
+  "teaching_experience": [
     {
-      "name": "Performative Capitalism in Silicon Valley: Examining Performative and Substantive Political Behaviors of U.S. Technology Companies",
-      "conference": "9th International Conference on Computational Social Science",
-      "releaseDate": "2023",
-      "authors": "Anh, C*., Wang, X*., González-Bailón, S. * indicates co-first authorship"
-    },
-    {
-      "name": "Using Social Signals Communicating Information Value to Change Curiosity",
-      "conference": "Annual International Communication Association Conference",
-      "releaseDate": "2023",
-      "authors": "Wang, X., Falk, E.B., Lydon-Staley, D.M."
-    },
-    {
-      "name": "A Socioemotional Network Perspective on Momentary Experiences of Family Conflict in Young Adults",
-      "conference": "Annual International Communication Association Conference",
-      "releaseDate": "2022",
-      "authors": "Wang, X., McGowan, A.L., Fosco, G.M., Falk, E.B., Bassett, D.S., & Lydon-Staley, D.M. "
-    },
-    {
-      "name": "Gendered citation practices in the field of communication",
-      "conference": "Annual International Communication Association Conference",
-      "releaseDate": "2021",
-      "authors": "Wang, X., Dworkin, J.D., Zhou, D., Stiso, J., Falk, E.B., Bassett, D.S., Zurn, P., & Lydon-Staley, D.M. "
-    },
-    {
-      "name": "Emotional Appeals and Norms: How Normative Perceptions Moderate the Persuasive Impacts of Discrete Emotional Appeals within Tobacco Pictorial Warnings in China",
-      "conference": "Annual Society for Research on Nicotine and Tobacco",
-      "releaseDate": "2021",
-      "authors": "Tao, R., Wang, X., Wang, Y., Yao, H., Wu, S., Liu, J., Yang, S. "
-    },
-    {
-      "name": "The Relationship Between Self-Construal and Neural Processes Associated with Conformity. ",
-      "conference": "Annual International Communication Association Conference",
-      "releaseDate": "2020",
-      "authors": "Tveleneva, A., Wang, X., Cascio, C.N., O’Donnell, M.B., Falk, E.B. "
-    },
-    {
-      "name": "Elders, Depression, and Social Networking: Understanding Who Benefits the Most From an Online Social Support System",
-      "conference": "Annual International Communication Association Conference",
-      "releaseDate": "2019",
-      "authors": "Hills, O., Wang, X. "
-    },
-    {
-      "name": "Classification Algorithms for Modeling Categorical Dependent Variables: A Study of Online Health Information Seeking",
-      "conference": "5th International Conference on Computational Social Science",
-      "releaseDate": "2019",
-      "authors": "Yang, E.F., Shah, D.V., Sethares, W.A., Sun, S.G., Wang, X. "
-    },
-     {
-      "name": "Social Norms: The Neural Relationship between Social Feedback and Observing Social Norms",
-      "conference": "Social & Affective Neuroscience Society",
-      "releaseDate": "2019",
-      "authors": "2.	Wang, X., Cascio, C.N., O'Donnell, M.B., Falk, E.B."
-     }
+      "title": "Teaching Assistant",
+      "course": "COMM125 Introduction to Communication Behavior",
+      "school": "University of Pennsylvania",
+      "semester": "Spring 2023",
+      "instructor": "Yphtach Lelkes",
+      "students": 15,
+      "topics": ["media effects", "attitude and persuasion", "misinformation", "research design", "data analysis"]
+    }
   ],
- 
+  "service": {
+    "university": [
+      {
+        "role": "Director of External Affairs",
+        "organization": "Graduate and Professional Student Assembly",
+        "institution": "University of Pennsylvania",
+        "years": [2022, 2023],
+        "responsibilities": [
+          "Led campus-wide advocacy efforts including Ph.D. student stipend raise, food insecurities",
+          "Created graduate student grant with UPenn Netter Center for Community Partnerships"
+        ]
+      }
+    ]
+  },
+  "professional_experience": [
+    {
+      "title": "Writer/Reporter",
+      "organization": "Advertising Week",
+      "location": "New York, NY",
+      "dates": "September 2017",
+      "description": "Published news articles on advertisingweek.com for panel talks in advertising industry"
+    }
+  ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "David Lydon-Staley",
+      "email": "david.lydonstaley@asc.upenn.edu",
+      "position": "Assistant Professor",
+      "institution": "Annenberg School for Communication, University of Pennsylvania"
     }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ],
-  "relevant professional experiences": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
+  ]
 }
