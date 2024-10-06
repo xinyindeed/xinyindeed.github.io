@@ -1,239 +1,200 @@
 {
-  "personal_info": {
+  "basics": {
     "name": "Xinyi Wang",
-    "email": "xinyi.wang@asc.upenn.edu",
-    "phone": "608-422-3715",
-    "address": "3620 Walnut Street, Philadelphia, PA, 19103",
-    "profiles": {
-      "google_scholar": "https://scholar.google.com/citations?user=069Kq20AAAAJ&hl=en",
-      "osf": "http://osf.io/w5re2"
-    }
+    "label": "Scientist",
+    "image": "",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
-  "research_interests": [
-    "health behavior",
-    "information seeking",
-    "communication neuroscience",
-    "cognitive processing",
-    "persuasion"
+  "work": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
   ],
   "education": [
     {
-      "degree": "Ph.D. Communication",
-      "school": "University of Pennsylvania, Annenberg School for Communication",
-      "expected_graduation": "May 2025",
-      "committee": [
-        "Dr. David Lydon-Staley (advisor)",
-        "Dr. Emily Falk",
-        "Dr. Andy Tan"
-      ],
-      "dissertation": "Investigating environmental and biological factors that shape our curiosity for new information"
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "degree": "M.A. Statistics and Data Science",
-      "school": "The Wharton School",
-      "expected_graduation": "December 2024"
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
     },
     {
-      "degree": "M.A. Communication",
-      "school": "University of Pennsylvania, Annenberg School for Communication",
-      "graduation": "May 2022"
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
     },
     {
-      "degree": "M.A. Journalism and Mass Communication",
-      "school": "University of Wisconsin – Madison",
-      "graduation": "May 2020",
-      "thesis": "Beneficial or Harmful: Does Peer Marijuana Expectancy Influence Norm Perception and Use Intent",
-      "committee": [
-        "Dr. Dhavan. V. Shah (advisor)",
-        "Dr. Chris. N. Cascio"
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Zur Elektrody/namik bewegter Körper",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-06-30",
+      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+    },
+    {
+      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1905-03-18",
+      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
+      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+    },
+    {
+      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
+      "publisher": "Annalen der Physik",
+      "releaseDate": "1916-03-20",
+      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
+      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
       ]
-    },
-    {
-      "degree": "B.A. Journalism and Mass Communication",
-      "school": "University of Wisconsin – Madison",
-      "graduation": "May 2018"
     }
   ],
-  "research_experience": [
+  "languages": [
     {
-      "title": "Graduate Research Assistant",
-      "lab": "Addiction, Health, & Adolescent (AHA!) Lab",
-      "school": "University of Pennsylvania",
-      "dates": "September 2020 - Present",
-      "pi": "Dr. David Lydon-Staley"
+      "language": "German",
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
-      "title": "Graduate Research Assistant",
-      "lab": "Communication, Brain and Behavior (CBB) Lab",
-      "school": "University of Wisconsin-Madison",
-      "dates": "September 2018 – May 2020",
-      "pi": "Dr. Chris N. Cascio"
-    },
-    {
-      "title": "Graduate Research Assistant",
-      "group": "Health Information Technology Studies (HITS) Group",
-      "school": "University of Wisconsin-Madison",
-      "dates": "January 2017 – May 2020",
-      "pi": "Dr. Dhavan. V. Shah"
-    },
-    {
-      "title": "Undergraduate Research Assistant",
-      "lab": "Center for Communication Research",
-      "school": "University of Wisconsin-Madison",
-      "dates": "January 2017 – May 2018",
-      "pi": "Dr. Catalina Toma"
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
-  "awards_and_fellowships": [
+  "interests": [
     {
-      "name": "Dissertation Research Fund",
-      "amount": "$1200",
-      "institution": "University of Pennsylvania",
-      "year": 2024
-    },
-    {
-      "name": "CETLI Teaching Certificate",
-      "institution": "University of Pennsylvania",
-      "year": 2024
-    },
-    {
-      "name": "GAPSA Student Service Award",
-      "amount": "$3400",
-      "institution": "University of Pennsylvania",
-      "years": [2023, 2024]
-    },
-    {
-      "name": "Top Paper Award",
-      "institution": "International Communication Association CommSciBio Group",
-      "year": 2020
-    },
-    {
-      "name": "Technology Grant",
-      "amount": "$500",
-      "institution": "University of Pennsylvania",
-      "year": 2020
-    },
-    {
-      "name": "Student Research Grant Competition",
-      "amount": "$1000",
-      "institution": "University of Wisconsin-Madison",
-      "year": 2019
-    },
-    {
-      "name": "Graduate Student Research Grant",
-      "amount": "$1200",
-      "institution": "University of Wisconsin-Madison",
-      "year": 2019
-    },
-    {
-      "name": "Dean’s List",
-      "institution": "University of Wisconsin-Madison",
-      "years": ["2015-2018"]
-    }
-  ],
-  "publications": {
-    "peer_reviewed_journal_articles": [
-      {
-        "title": "A Socioemotional Network Perspective on Momentary Experiences of Family Conflict in Young Adults",
-        "authors": "Wang, X., McGowan, A.L., Fosco, G.M., Falk, E.B., Bassett, D.S., & Lydon-Staley, D.M.",
-        "journal": "Family Process",
-        "status": "Advanced online publication",
-        "link": "https://doi.org/10.1111/famp.12995",
-        "year": 2024
-      },
-      {
-        "title": "Smokers’ curiosity for tobacco-related trivia aids recall of tobacco-related information",
-        "authors": "Clark, J., Vincent, A., Wang, X., McGowan, A.L., & Lydon-Staley, D.M.",
-        "journal": "Health Communication",
-        "volume": 38,
-        "issue": 14,
-        "pages": "3357-3365",
-        "link": "https://doi.org/10.1080/10410236.2022.2149098",
-        "year": 2023
-      },
-      {
-        "title": "Emotional Appeals and Norms: How Normative Perceptions Moderate the Persuasive Impacts of Discrete Emotional Appeals within Tobacco Pictorial Warnings in China",
-        "authors": "Tao, R., Wang, X., Wang, Y., Yao, H., Wu, S., Liu, J., Yang, S.",
-        "journal": "Health Communication",
-        "pages": "1-16",
-        "link": "https://doi.org/10.1080/10410236.2023.2277036",
-        "year": 2023
-      }
-    ],
-    "book_chapters": [
-      {
-        "title": "Neuroimaging",
-        "authors": "Wang, X., Scholz, C., Falk, E. B., & Lydon-Staley, D. M.",
-        "book": "The International Encyclopedia of Health Communication",
-        "series": "The Wiley Blackwell-ICA International Encyclopedias of Communication",
-        "link": "https://doi.org/10.1002/9781119678816.iehc0600",
-        "year": 2023
-      }
-    ],
-    "preprints": [
-      {
-        "title": "Using Social Signals Communicating Information Value to Change Curiosity",
-        "authors": "Wang, X., Falk, E.B., Lydon-Staley, D.M.",
-        "link": "https://osf.io/preprints/psyarxiv/268pd"
-      }
-    ]
-  },
-  "conference_presentations": [
-    {
-      "title": "Performative Capitalism in Silicon Valley: Examining Performative and Substantive Political Behaviors of U.S. Technology Companies",
-      "authors": "Anh, C., Wang, X., González-Bailón, S.",
-      "event": "9th International Conference on Computational Social Science",
-      "year": 2023,
-      "note": "Plenary Talk"
-    }
-  ],
-  "workshops_attended": [
-    {
-      "title": "Intensive Longitudinal Methods Workshop",
-      "institution": "Cornell University",
-      "year": 2022
-    }
-  ],
-  "teaching_experience": [
-    {
-      "title": "Teaching Assistant",
-      "course": "COMM125 Introduction to Communication Behavior",
-      "school": "University of Pennsylvania",
-      "semester": "Spring 2023",
-      "instructor": "Yphtach Lelkes",
-      "students": 15,
-      "topics": ["media effects", "attitude and persuasion", "misinformation", "research design", "data analysis"]
-    }
-  ],
-  "service": {
-    "university": [
-      {
-        "role": "Director of External Affairs",
-        "organization": "Graduate and Professional Student Assembly",
-        "institution": "University of Pennsylvania",
-        "years": [2022, 2023],
-        "responsibilities": [
-          "Led campus-wide advocacy efforts including Ph.D. student stipend raise, food insecurities",
-          "Created graduate student grant with UPenn Netter Center for Community Partnerships"
-        ]
-      }
-    ]
-  },
-  "professional_experience": [
-    {
-      "title": "Writer/Reporter",
-      "organization": "Advertising Week",
-      "location": "New York, NY",
-      "dates": "September 2017",
-      "description": "Published news articles on advertisingweek.com for panel talks in advertising industry"
+      "name": "Physics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     }
   ],
   "references": [
     {
-      "name": "David Lydon-Staley",
-      "email": "david.lydonstaley@asc.upenn.edu",
-      "position": "Assistant Professor",
-      "institution": "Annenberg School for Communication, University of Pennsylvania"
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+    {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
     }
   ]
 }
