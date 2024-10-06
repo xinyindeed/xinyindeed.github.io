@@ -1,10 +1,7 @@
 ---
-layout: cv
+layout: default
 permalink: assets/pdf/XinyiWang_CV_Sep6.pdf
-title: cv
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: XinyiWang_CV_Sep6.pdf
-toc:
-  sidebar: left
 ---
