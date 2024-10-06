@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: assets/pdf/XinyiWang_CV_Sep6.pdf
 title: cv
 nav: true
 nav_order: 5
