@@ -22,11 +22,17 @@ Hi! I'm a Postdoctoral Fellow at the [Health Communication & Equity Lab](https:/
 
 <br>
 <br>
-<br>
-<p class="special-paragraph"> Education<br>
-                        <strong>Ph.D. Communication (2025)<br>
-                                Annenberg School for Communication, University of Pennsylvania.<br>
-                              M.A. Statistics and Data Science (2024) The Wharton School, University of Pennsylvania.<br>
-                              M.A. Journalism and Mass Communication (2020) University of Wisconsin-Madison.<br>
-                              B.A. Journalism and Mass Communication (2018) University of Wisconsin-Madison.</p>
 
+<div class="outfit-font">
+  <p class="special-paragraph">
+    Education<br><br>
+    <span class="bold">Ph.D. Communication (2025)</span><br>    
+    Annenberg School for Communication, University of Pennsylvania.<br>
+    <span class="bold">M.A. Statistics and Data Science (2024)</span><br>  
+    The Wharton School, University of Pennsylvania.<br>
+    <span class="bold">M.A. Journalism and Mass Communication (2020)</span><br>    
+    University of Wisconsin-Madison.<br>
+    <span class="bold">B.A. Journalism and Mass Communication (2018)</span><br> 
+    University of Wisconsin-Madison.<br>
+  </p>
+</div>
