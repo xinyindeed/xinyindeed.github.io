@@ -25,7 +25,7 @@ Hi! I'm a Postdoctoral Fellow at the [Health Communication & Equity Lab](https:/
 
 <div class="outfit-font">
   <p class="special-paragraph">
-    Education<br><br>
+    <span class="bold">Education</span><br><br>
     <span class="bold">Ph.D. Communication (2025)</span><br>    
     Annenberg School for Communication, University of Pennsylvania.<br>
     <span class="bold">M.A. Statistics and Data Science (2024)</span><br>  
