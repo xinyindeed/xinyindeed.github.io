@@ -5,7 +5,7 @@
 
 // Dimensions
 $max-content-width: {{ site.max_width }};
-
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import
   "variables",
   "themes",
@@ -26,3 +26,6 @@ $max-content-width: {{ site.max_width }};
 .outfit-font {
   font-family: 'Outfit', sans-serif;
 }
+
+
+
