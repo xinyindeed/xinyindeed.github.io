@@ -38,5 +38,13 @@ $max-content-width: {{ site.max_width }};
 .regular {
   font-weight: 400; /* Regular */
 }
+.content-wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
 
-
+.outfit-font {
+  flex: 1;
+  margin: 10px;
+}
