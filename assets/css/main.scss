@@ -27,5 +27,16 @@ $max-content-width: {{ site.max_width }};
   font-family: 'Outfit', sans-serif;
 }
 
+.light {
+  font-weight: 200; /* Light */
+}
+
+.bold {
+  font-weight: 700; /* Bold */
+}
+
+.regular {
+  font-weight: 400; /* Regular */
+}
 
 
