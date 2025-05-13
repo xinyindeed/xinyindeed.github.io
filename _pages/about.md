@@ -23,30 +23,32 @@ Hi! I'm a Postdoctoral Fellow (NIH U01 project: Communication Messaging about th
 <br>
 <br>
 
-<div class="outfit-font">
-  <p class="special-paragraph">
-    <span class="bold" style="font-size: 2em;">Education</span><br>
-    <span class="bold">Ph.D. Communication </span><br>    
-    Annenberg School for Communication, University of Pennsylvania.<br>
-    <span class="bold">M.A. Statistics and Data Science </span><br>  
-    The Wharton School, University of Pennsylvania.<br>
-    <span class="bold">M.A. Journalism and Mass Communication </span><br>    
-    University of Wisconsin-Madison.<br>
-    <span class="bold">B.A. Journalism and Mass Communication </span><br> 
-    University of Wisconsin-Madison.<br>
-  </p>
-</div>
+<div class="content-wrapper">
+  <div class="outfit-font">
+    <p class="special-paragraph">
+      <span class="bold" style="font-size: 2em;">Education</span><br><br>
+      <span class="bold">Ph.D. Communication</span><br>
+      Annenberg School for Communication, University of Pennsylvania.<br>
+      <span class="bold">M.A. Statistics and Data Science</span><br>
+      The Wharton School, University of Pennsylvania.<br>
+      <span class="bold">M.A. Journalism and Mass Communication</span><br>
+      University of Wisconsin-Madison.<br>
+      <span class="bold">B.A. Journalism and Mass Communication</span><br>
+      University of Wisconsin-Madison.<br>
+    </p>
+  </div>
 
-<div class="outfit-font">
-  <p class="special-paragraph">
-    <span class="bold">Interests</span><br><br>
-    <span class="bold">Ph.D. Communication </span><br>    
-    Annenberg School for Communication, University of Pennsylvania.<br>
-    <span class="bold">M.A. Statistics and Data Science </span><br>  
-    The Wharton School, University of Pennsylvania.<br>
-    <span class="bold">M.A. Journalism and Mass Communication </span><br>    
-    University of Wisconsin-Madison.<br>
-    <span class="bold">B.A. Journalism and Mass Communication </span><br> 
-    University of Wisconsin-Madison.<br>
-  </p>
+  <div class="outfit-font">
+    <p class="special-paragraph">
+      <span class="bold" style="font-size: 2em;">Interests</span><br><br>
+      <span class="bold">Ph.D. Communication</span><br>
+      Annenberg School for Communication, University of Pennsylvania.<br>
+      <span class="bold">M.A. Statistics and Data Science</span><br>
+      The Wharton School, University of Pennsylvania.<br>
+      <span class="bold">M.A. Journalism and Mass Communication</span><br>
+      University of Wisconsin-Madison.<br>
+      <span class="bold">B.A. Journalism and Mass Communication</span><br>
+      University of Wisconsin-Madison.<br>
+    </p>
+  </div>
 </div>
