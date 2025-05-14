@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a Postdoctoral Fellow (NIH U01 project: Communication Messaging about the Continuum of Risk for Tobacco Products) at the [Health Communication & Equity Lab](https://www.asc.upenn.edu/research/centers/health-communication-and-equity-lab) at [Annenberg School for Communication](https://www.asc.upenn.edu/people/graduate-student/xinyi-wang/) at the University of Pennsylvania. My research interests are at the intersection of health, brain, and behavior. My research focuses on (1) curiosity and ways to enhance curiosity towards accurate health information (2) the dynamic interplay between internal processes (e.g., within-person fluctuations of emotions and cognitions) and external influences (e.g., social influence, social relationships) in health behavior. I leverage intensive-longitudinal, neuroscientific, and computational methodologies to understand these questions.
+Hi! I'm a Postdoctoral Fellow (NIH U01 project: Communication Messaging about the Continuum of Risk for Tobacco Products) at the [Health Communication & Equity Lab](https://www.asc.upenn.edu/research/centers/health-communication-and-equity-lab) at [Annenberg School for Communication](https://www.asc.upenn.edu/people/graduate-student/xinyi-wang/) at the University of Pennsylvania.<br>
+My research focuses on (1) curiosity and ways to enhance curiosity towards accurate health information (2) the dynamic interplay between internal processes (e.g., within-person fluctuations of emotions and cognitions) and external influences (e.g., social influence, social relationships) in health behavior.<br> 
+I leverage intensive-longitudinal, neuroscientific, and computational methodologies to understand these questions.<br>
 
 <br>
 <br>
