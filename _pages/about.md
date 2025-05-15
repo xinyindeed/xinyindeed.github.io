@@ -43,10 +43,10 @@ I leverage intensive-longitudinal, neuroscientific, and computational methodolog
   <div class="outfit-font">
     <p class="special-paragraph">
       <span class="bold" style="font-size: 2em;">Interests</span><br><br>
+      Curiosity<br>
+      Health Information Seeking<br>
       Tobacco Control<br>
       Health Intervention<br>
-      Curiosity<br>
-      Information Seeking<br>
       Experience Sampling<br>
     </p>
   </div>
