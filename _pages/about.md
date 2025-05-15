@@ -7,11 +7,12 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>xinyi.wang@asc.upenn.edu</p>
+    <p class="email-address">
+      xinyi.wang@asc.upenn.edu
+    </p>
     <p><a href="https://scholar.google.com/citations?user=069Kq20AAAAJ&hl=en" target="_blank">Google Scholar</a></p>
-
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
