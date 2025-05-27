@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi! I'm a Postdoctoral Fellow (NIH U01: Communication Messaging about the Continuum of Risk for Tobacco Products) at the [Health Communication & Equity Lab](https://www.asc.upenn.edu/research/centers/health-communication-and-equity-lab) at [Annenberg School for Communication](https://www.asc.upenn.edu/people/graduate-student/xinyi-wang/) at the [University of Pennsylvania](https://www.upenn.edu/). Previously, I was a PhD student at the [Addiction, Health, & Adolescence (AHA!) Lab](https://www.asc.upenn.edu/research/centers/addiction-health-and-adolescence-lab) at the University of Pennsylvania.<br><br>
-My research focuses on curiosity, what role does curiosity play in our media exeriences, and how does it impact our health behavior. I am particularly interested in conducting research through the lens of internal processes (e.g., within-person fluctuations of emotions and cognitions), external influences (e.g., social influence, social relationships), and the dynamic interplay between them.<br><br> 
+My research focuses on curiosity, what role does curiosity play in our media experiences, and how does it impact our health behavior. I am particularly interested in conducting research through the lens of internal processes (e.g., within-person fluctuations of emotions and cognitions), external influences (e.g., social influence, social relationships), and the dynamic interplay between them.<br><br> 
 I leverage intensive-longitudinal, neuroscientific, and computational methodologies to understand these questions.<br><br>
 
 <br>
