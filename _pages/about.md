@@ -23,7 +23,7 @@ Hi! I'm a Postdoctoral Fellow (NIH U01: Communication Messaging about the Contin
 My research focuses on curiosity, what role does curiosity play in our media experiences, and how does it impact our health behavior. I am particularly interested in conducting research through the lens of internal processes (e.g., within-person fluctuations of emotions and cognitions), external influences (e.g., social influence, social relationships), and the dynamic interplay between them.<br><br> 
 I leverage intensive-longitudinal, neuroscientific, and computational methodologies to understand these questions.<br><br>
 
-My work on Penn Today:
+Recent news (Penn Today):
 [Sparking Curiosity for Better Learning and Better Lives](https://penntoday.upenn.edu/news/penn-asc-sparking-curiosity-better-learning-and-better-lives)
 
 <br>
