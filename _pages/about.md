@@ -28,7 +28,7 @@ Recent news:
 
 Winner of the Annenberg Bake off 2026 by popular vote (with my Ube Tres Leches Cake)! <br><br> 
 Received [Health Equity Travel Award 2026 receipient from the Society of Research on Nicotine and Tobacco](https://www.linkedin.com/posts/xinyi-wang-031451113_srnt2026-hen20-ugcPost-7436561738625470464-s4Zw?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxdO-UBhm2C6qSYtS4jm3aNKrDXF6JvI6c) <br><br> 
-Penn Today Article on my dissertation: [Sparking Curiosity for Better Learning and Better Lives](https://penntoday.upenn.edu/news/penn-asc-sparking-curiosity-better-learning-and-better-lives)
+Penn Today article on my dissertation: [Sparking Curiosity for Better Learning and Better Lives](https://penntoday.upenn.edu/news/penn-asc-sparking-curiosity-better-learning-and-better-lives)
 
 <br>
 <br>
