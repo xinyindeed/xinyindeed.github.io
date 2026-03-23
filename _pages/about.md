@@ -19,16 +19,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a Postdoctoral Fellow (NIH U01: Communication Messaging about the Continuum of Risk for Tobacco Products) at the [Health Communication & Equity Lab](https://www.asc.upenn.edu/research/centers/health-communication-and-equity-lab) at [Annenberg School for Communication](https://www.asc.upenn.edu/people/graduate-student/xinyi-wang/) at the [University of Pennsylvania](https://www.upenn.edu/). Previously, I completed my PhD at the [Addiction, Health, & Adolescence (AHA!) Lab](https://www.asc.upenn.edu/research/centers/addiction-health-and-adolescence-lab) at the University of Pennsylvania.<br><br>. I'm also a fellow at the [Leonard Davis Institute of Economics](https://ldi.upenn.edu/).
+Hi! I'm a Postdoctoral Fellow (NIH U01: Communication Messaging about the Continuum of Risk for Tobacco Products) at the [Health Communication & Equity Lab](https://www.asc.upenn.edu/research/centers/health-communication-and-equity-lab) at [Annenberg School for Communication](https://www.asc.upenn.edu/people/graduate-student/xinyi-wang/) at the [University of Pennsylvania](https://www.upenn.edu/). Previously, I completed my PhD at the [Addiction, Health, & Adolescence (AHA!) Lab](https://www.asc.upenn.edu/research/centers/addiction-health-and-adolescence-lab) at the University of Pennsylvania. I'm also a fellow at the [Leonard Davis Institute of Economics](https://ldi.upenn.edu/).<br><br> 
 
 My research focuses on curiosity, information-seeking, and how do they impact our health behavior. My work explores internal processes (e.g., within-person fluctuations of emotions and cognitions), external influences (e.g., social influence, social relationships), and the dynamic interplay between them.<br><br> 
 I leverage intensive-longitudinal, computational, and network-based methodologies to understand these questions.<br><br>
 
 Recent news:
 
-Winner of the Annenberg Bake off 2026 by popular vote (with my Ube Tres Leches Cake)!
-Received [Health Equity Travel Award 2026 receipient from the Society of Research on Nicotine and Tobacco](https://www.linkedin.com/posts/xinyi-wang-031451113_srnt2026-hen20-ugcPost-7436561738625470464-s4Zw?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxdO-UBhm2C6qSYtS4jm3aNKrDXF6JvI6c)
-Penn Today: [Sparking Curiosity for Better Learning and Better Lives](https://penntoday.upenn.edu/news/penn-asc-sparking-curiosity-better-learning-and-better-lives)
+Winner of the Annenberg Bake off 2026 by popular vote (with my Ube Tres Leches Cake)! <br><br> 
+Received [Health Equity Travel Award 2026 receipient from the Society of Research on Nicotine and Tobacco](https://www.linkedin.com/posts/xinyi-wang-031451113_srnt2026-hen20-ugcPost-7436561738625470464-s4Zw?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxdO-UBhm2C6qSYtS4jm3aNKrDXF6JvI6c) <br><br> 
+Penn Today Article on my dissertation: [Sparking Curiosity for Better Learning and Better Lives](https://penntoday.upenn.edu/news/penn-asc-sparking-curiosity-better-learning-and-better-lives)
 
 <br>
 <br>
